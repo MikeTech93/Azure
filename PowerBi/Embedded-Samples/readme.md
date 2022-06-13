@@ -1,5 +1,7 @@
 NodeJS sample app to embed PowerBi report using clientId & clientSecret. This app can generate the EmbedUrl & EmbedToken needed for the React App.
 
+NodeJS sample app which includes ability to be use RLS filtering.
+
 React sample app to embed PowerBi report using EmbedUrl & EmbedToken.
 
 These are code samples built from other guides but in a single place for easy reference. 
